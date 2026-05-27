@@ -64,7 +64,3 @@ src/
 ├── App.vue      # Root component
 └── main.js      # Application entry point
 ```
-
-## License
-
-This project is protected under a private license.
